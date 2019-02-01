@@ -7,3 +7,11 @@ The project utilises CNN and LSTM for feature extraction and word generation res
 
 The project works on Flickr8k dataset. If you have enough computational power you can train the model for flickr30k dataset as well.
 
+There is a full tutorial on how I was able to develop this model which you can find on : https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+
+Feel free to ask queries if you have any.
+
+
+
+Peace People
+-FoggyFoil5398
